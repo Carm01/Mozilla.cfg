@@ -139,7 +139,7 @@ Func getfiles()
 	$i = 0
 	For $i = 1 To UBound($sTxt) - 1 ; is like saying read the line number
 		;GUIGetMsg();prevent high cpu usage
-		If StringInStr($sTxt[$i], "=win64&amp;lang=en-US") > 1 Then
+		If StringInStr($sTxt[$i], "=win64&amp;lang=en-US") > 1 And StringInStr($sTxt[$i], "stub") =0  Then
 			$sActiveX1 = StringSplit($sTxt[$i], 'href="', 1)
 			$sActiveX2 = StringSplit($sActiveX1[2], '"')
 			Global $dia = $sActiveX2[1]
