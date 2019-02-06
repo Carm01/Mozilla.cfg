@@ -1,6 +1,6 @@
 #RequireAdmin
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
-#AutoIt3Wrapper_Icon=Clear-App-firefox.ico
+#AutoIt3Wrapper_Icon=3.ico
 #AutoIt3Wrapper_Outfile=FirefoxUpdater_x64Stable_x.exe
 #AutoIt3Wrapper_Compression=4
 #AutoIt3Wrapper_UseUpx=y
