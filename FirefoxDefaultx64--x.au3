@@ -7,8 +7,8 @@
 #AutoIt3Wrapper_UseX64=y
 #AutoIt3Wrapper_Res_Comment=Preformes a clean install of Firefox 64bit Stable version. Auto downloads latest version.
 #AutoIt3Wrapper_Res_Description=Updates to the Latest 64bit Stable
-#AutoIt3Wrapper_Res_Fileversion=2.5.0.0
-#AutoIt3Wrapper_Res_ProductVersion=2.5.0.0
+#AutoIt3Wrapper_Res_Fileversion=2.5.1.0
+#AutoIt3Wrapper_Res_ProductVersion=2.5.1.0
 #AutoIt3Wrapper_Res_LegalCopyright=carm0@sourceforge
 #AutoIt3Wrapper_Res_Language=1033
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
@@ -302,7 +302,7 @@ EndFunc   ;==>MyExit
 Func About()
 	; Display a message box about the AutoIt version and installation path of the AutoIt executable.
 	MsgBox($MB_SYSTEMMODAL, "", "Firefox Update Tool" & @CRLF & @CRLF & _
-			"Version: 2.5.0.0" & @CRLF & _
+			"Version: 2.5.1.0" & @CRLF & _
 			"Firefox Updater by Carm0@Sourceforge" & @CRLF & "CTRL+ALT+m to kill", 5) ; Find the folder of a full path.
 EndFunc   ;==>About
 
