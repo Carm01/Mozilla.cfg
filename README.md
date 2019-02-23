@@ -1,7 +1,7 @@
 # Mozilla.cfg
 Mozilla configuration files.
 
-This creates default setting in Mozilla Firefox, you can create your own settings if you know them. This way FireFox will be setup with the configuration settings upon launch. i.e enalbe all plugins, set homepage, etc...
+This creates default setting in Mozilla Firefox, you can create your own settings if you know them. This way FireFox will be setup with the configuration settings upon launch. i.e enable all plugins, set homepage, etc...
 
 Mozilla.cfg goes where the Firefox.exe lives i.e C:\Program Files\Mozilla Firefox THIS IS YOUR DEFAULT SETTINGS FOR ALL USERS
 
